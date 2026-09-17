@@ -1,0 +1,20 @@
+# Secrets — never commit real keys
+.env
+*.env
+!.env.example
+
+# Deps + build
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+
+# Handoff artifact (redundant in repo)
+shoe-studio-handoff.zip
+
+# Tool artifacts
+.playwright-cli/
+
+# OS
+.DS_Store
+Thumbs.db

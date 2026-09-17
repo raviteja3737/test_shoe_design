@@ -1,0 +1,32 @@
+[
+  {
+    "brand": "Nike",
+    "model": "Pegasus-type road runner",
+    "element": "upper",
+    "trait": "breathable engineered mesh upper with midfoot support bands"
+  },
+  {
+    "brand": "On",
+    "model": "Cloud-type performance runner",
+    "element": "sole",
+    "trait": "rocker performance sole with hollow cushioning pods"
+  },
+  {
+    "brand": "Adidas",
+    "model": "Ultraboost-type knit runner",
+    "element": "upper",
+    "trait": "sock-like primeknit collar upper with heel counter"
+  },
+  {
+    "brand": "Salomon",
+    "model": "trail-type grip shoe",
+    "element": "outsole",
+    "trait": "rugged lugged trail outsole with aggressive tread"
+  },
+  {
+    "brand": "Minimal luxury",
+    "model": "clean court-type sneaker",
+    "element": "palette",
+    "trait": "restrained minimal palette, premium smooth leather panels, tonal stitching"
+  }
+]
